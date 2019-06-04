@@ -1,2 +1,4 @@
-The quick brown fox jumps over the laz:y dog
+The quick brown fox jumps over the lazy dog
 which letter of the alphabet isnt in this sentence?
+
+testing out adding different things to this file.:
